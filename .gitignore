@@ -89,3 +89,4 @@ instance/
 # JetBrains
 .idea/
 
+.env
