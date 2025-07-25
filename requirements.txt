@@ -10,3 +10,4 @@ langchain_openai
 langchain_experimental
  ollama 
 -e .
+python-dotenv
